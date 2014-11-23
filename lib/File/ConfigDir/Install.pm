@@ -291,6 +291,12 @@ L<File::ConfigDir/vendor_cfg_dir>, respectively.
 
 A reasonable way to override might be more packager- and user-friendly.
 
+=item *
+
+No VMS support
+
+Needs to be hacked ...
+
 =back
 
 =head1 BUGS
