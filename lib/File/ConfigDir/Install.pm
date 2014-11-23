@@ -18,7 +18,7 @@ File::ConfigDir::Install - Install (into) configuration directories
 
 =cut
 
-$VERSION     = '0.001';
+$VERSION     = '0.002';
 @ISA         = qw(Exporter);
 @EXPORT      = qw(install_config);
 @EXPORT_OK   = qw(install_config postamble constants install);
